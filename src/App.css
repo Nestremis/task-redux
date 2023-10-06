@@ -1,0 +1,33 @@
+.App {
+  height: 100vh;
+  width: 100vw;
+  background-color: rgb(54, 54, 54);
+  display: grid;
+  place-items: center;
+}
+
+h2 {
+  letter-spacing: 10px;
+  color: rgb(0, 174, 255);
+}
+
+
+.app_container {
+  height: 80vh;
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(46, 84, 102);
+  border-radius: 12px;
+  padding: 32px 0;
+  margin-top: none;
+}
+
+.app_todoContainer {
+  flex: 1;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

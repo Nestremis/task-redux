@@ -1,0 +1,25 @@
+.todoItem {
+    display: flex;
+    align-items: center;
+    width: 80%;
+    background-color: white;
+    margin: 6px 4px;
+    height: 40px;
+    border-radius: 2px;
+}
+
+.todoItem>p {
+    flex: 1;
+}
+
+.todoItem--done {
+    text-decoration: line-through;
+}
+
+button {
+    border-radius: 2px;text-shadow:0 1px 0 #666;text-align:center;text-decoration:none;box-shadow:2px 2px 4px #000;background:#cccbbb;opacity:0.95
+}
+    
+button:hover{
+    border-radius: 5px; background-color: darkred;text-shadow:0 0 1px #666;text-decoration:none;box-shadow:0 0 4px #222 inset;opacity:1
+}
