@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+Simpel task list made with Redux Toolkit. 
+
+Publishe on https://nestremis.github.io/task-redux/
 
 ## Available Scripts
 
