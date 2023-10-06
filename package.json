@@ -1,6 +1,5 @@
 {
   "name": "boilerplate",
-  "homepage": "https://nestremis.github.io/dailytask-redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
