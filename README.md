@@ -1,4 +1,6 @@
-Classical task list made with REACT and Redux Toolkit.
+#Task list made with React and Redux Toolkit.
+
+Use input to enter the name of the task. A ticket will appear which can be marked/unmarked by checkbox or completely remove the item. 
 
 Application is fully responsive.
 
