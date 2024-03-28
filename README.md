@@ -1,4 +1,4 @@
-Task list made with REACT and Redux Toolkit.
+Classical task list made with REACT and Redux Toolkit.
 
 Application is fully responsive.
 
